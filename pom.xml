@@ -8,6 +8,8 @@
         <module>ch05/todo_jdbc</module>
         <module>ch05/todo-jpa</module>
       <module>ch05/todo-rest</module>
+        <module>ch05/todo-mongo</module>
+        <module>ch05/todo-redis</module>
     </modules>
     <parent>
   <groupId>org.springframework.boot</groupId>
