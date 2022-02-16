@@ -6,6 +6,7 @@
       <module>ch04/todo_in_memory</module>
       <module>ch04/todo_client</module>
         <module>ch05/todo_jdbc</module>
+        <module>ch05/todo-jpa</module>
     </modules>
     <parent>
   <groupId>org.springframework.boot</groupId>
