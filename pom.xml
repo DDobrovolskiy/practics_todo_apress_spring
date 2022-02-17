@@ -10,6 +10,7 @@
       <module>ch05/todo-rest</module>
         <module>ch05/todo-mongo</module>
         <module>ch05/todo-redis</module>
+        <module>ch06/todo-webflux</module>
     </modules>
     <parent>
   <groupId>org.springframework.boot</groupId>
